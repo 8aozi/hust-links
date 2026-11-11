@@ -58,7 +58,7 @@
 | --- | --- |
 | [Awesome HUST](https://github.com/recolic/awesome-hust) | 华科生存指南与资源索引，涵盖课程实验、报告和工具，主要面向计科、软工与网安 |
 | [Hust-opensource-Xuejie · 完整学解仓库](https://github.com/SukunaShinmyoumaru-hust/Hust-opensource-Xuejie/tree/main) | 按课程整理的学习资料与学解，涵盖数学、编程语言、计算机核心课程等 |
-| [SAFC 导师评价](https://framist.github.io/safc/) | 第三方评价入口；内容仅供参考，建议结合多方信息判断 |
+| [SAFC 导师评价](https://framist.github.io/safc/) | 第三方评价入口；大部分评价来自 2019 年，信息较旧，仅供参考，建议结合多方信息判断 |
 
 ## 飞跃与大学生活手册
 

@@ -4,7 +4,7 @@
 
 > 本仓库由24级个人整理（计算机学院为主）。链接可公开分享，部分系统需要校园网、校内身份认证等权限；<br>
 > 注：部分具体业务、政策请以学校最新通知为准。<br>
-> 如果觉得有帮助，可以点个 ==**⭐ Star**== 支持一下编者～ 
+> 如果有帮助到你，可以点个 **⭐ Star** 支持一下～ 
 
 
 ## 🧭 目录
@@ -23,7 +23,7 @@
 | --- | --- |
 | [HUBs 平台](https://hubs.hust.edu.cn/) | 校内教学与服务入口 |
 | [hust邮件系统](http://mail.hust.edu.cn/) | 校园邮箱登录 |
-| [校园网自助服务](http://myself.hust.edu.cn:8080/selfservice/) | 校园网账户自助服务，可能需要校内网络 |
+| [校园网自助服务平台](http://myself.hust.edu.cn:8080/selfservice/) | 🛜**校园网**登录入口，建议收藏到浏览器夹栏，网络不稳定时就常点常登录😄 | 
 | [hust软件服务平台](http://software.hust.edu.cn/download.html) | 含hust认证的软件下载平台，包括office,MATLAB,WPS等 |
 | [统一支付平台](http://pay.hust.edu.cn/) | 校内缴费入口 |
 | [校内常用电话](https://freshman.hust.edu.cn/yjsszyxw/rxgl/xncydh.htm) | 学校网站公布的常用电话目录 |

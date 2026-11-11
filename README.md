@@ -18,10 +18,10 @@
 
 | 名称 | 用途 |
 | --- | --- |
-| [HUBS 平台](https://hubs.hust.edu.cn/) | 校内教学与服务入口 |
-| [学校邮件系统](http://mail.hust.edu.cn/) | 校园邮箱登录 |
+| [HUBs 平台](https://hubs.hust.edu.cn/) | 校内教学与服务入口 |
+| [hust邮件系统](http://mail.hust.edu.cn/) | 校园邮箱登录 |
 | [校园网自助服务](http://myself.hust.edu.cn:8080/selfservice/) | 校园网账户自助服务，可能需要校内网络 |
-| [软件服务平台 · MATLAB](http://software.hust.edu.cn/download/matlab.html) | 校园软件平台的 MATLAB 页面 |
+| [hust软件服务平台](http://software.hust.edu.cn/download.html) | 含hust认证的软件下载平台，包括office,MATLAB,WPS等 |
 | [统一支付平台](http://pay.hust.edu.cn/) | 校内缴费入口 |
 | [校内常用电话](https://freshman.hust.edu.cn/yjsszyxw/rxgl/xncydh.htm) | 学校网站公布的常用电话目录 |
 
@@ -29,8 +29,8 @@
 
 | 名称 | 用途 |
 | --- | --- |
-| [选课系统（原收藏标注：专选课）](http://wsxk.hust.edu.cn/) | 选课入口，适用范围以教务通知为准 |
-| [本科生选课系统（原收藏标注：公选课）](https://bksxk.hust.edu.cn/index) | 使用通用入口，进入后选择当前开放的选课批次 |
+| [选课系统（注：专选课）](http://wsxk.hust.edu.cn/) | 选课入口，适用范围以教务通知为准 |
+| [本科生选课系统（注：公选课）](https://bksxk.hust.edu.cn/index) | 使用通用入口，进入后选择当前开放的选课批次 |
 | [可信成绩单](https://cjd.hust.edu.cn/) | 成绩单相关服务 |
 | [学生注册管理系统](https://register.hust.edu.cn/studentIndex) | 学生注册相关服务 |
 
@@ -38,16 +38,16 @@
 
 | 名称 | 用途 |
 | --- | --- |
-| [场地预约](http://xgxt.hust.edu.cn/booking) | 场地、静音舱等预约，实际可预约项目以系统为准 |
-| [学科竞赛系统](https://xkjs.hust.edu.cn/) | 竞赛、奖励加分相关填报入口，具体要求以通知为准 |
+| [场地预约](http://xgxt.hust.edu.cn/booking) | 场地、静音舱等预约 |
+| [学科竞赛系统](https://xkjs.hust.edu.cn/) | 竞赛、奖励加分相关填报入口 |
 | [学生工作系统](http://xgxt.hust.edu.cn/xg) | 资助、奖学金等学生事务入口 |
 
 ## 计算机学院
 
 | 名称 | 用途 |
 | --- | --- |
-| [计算机科学与技术学院](https://cs.hust.edu.cn/) | 学院官方网站 |
-| [人才培养栏目](https://cs.hust.edu.cn/rcpy.htm) | 教学、培养及相关通知 |
+| [计算机科学与技术学院](https://cs.hust.edu.cn/) | hust计算机学院学院官方网站 |
+| [人才培养栏目](https://cs.hust.edu.cn/rcpy.htm) | 教学相关文件和通知 |
 | [现任领导](https://cs.hust.edu.cn/xygk/xrld.htm) | 学院公开组织信息 |
 
 ## 学习与社区资源
@@ -56,24 +56,23 @@
 
 | 名称 | 用途 |
 | --- | --- |
-| [Awesome HUST](https://github.com/recolic/awesome-hust) | 华科生存指南与资源索引，涵盖课程实验、报告和工具，主要面向计科、软工与网安 |
-| [Hust-opensource-Xuejie · 完整学解仓库](https://github.com/SukunaShinmyoumaru-hust/Hust-opensource-Xuejie/tree/main) | 按课程整理的学习资料与学解，涵盖数学、编程语言、计算机核心课程等 |
-| [SAFC 导师评价](https://framist.github.io/safc/) | 第三方评价入口；大部分评价来自 2019 年，信息较旧，仅供参考，建议结合多方信息判断 |
+| [Awesome HUST](https://github.com/recolic/awesome-hust) | 很多有用的指南与资源索引，涵盖实验、报告和~~有趣的~~工具，主要面向计科、软工与网安 |
+| [Hust-opensource-Xuejie · 完整学解仓库](https://github.com/SukunaShinmyoumaru-hust/Hust-opensource-Xuejie/tree/main) | **学院最伟大的产物之一**，涵盖全学年cs等核心课程的相关资料，致谢Sukuna学长及其他contributor |
+| [SAFC 导师评价](https://framist.github.io/safc/) | 第三方评价入口；大部分评价来自2019年，仅供参考，建议结合多方信息判断 |
 
 ## 飞跃与大学生活手册
 
-以下为学生与社区整理的经验资料。申请案例、院校政策和校园生活建议具有时间与学校背景差异，请结合当前情况参考。
+以下为学生与社区整理的留学相关经验资料。申请案例、院校政策和校园生活建议具有时间与学校背景差异，请结合当前情况参考。
 
 | 名称 | 用途 |
 | --- | --- |
-| [华中科技大学计算机类飞跃手册 · 23fall](https://hustcsrun.gitbook.io/23fall) | 计算机方向留学申请经验，涵盖申请时间线、语言考试、科研、文书与申请案例；23fall 版 |
+| [华中科技大学计算机类飞跃手册 · 23fall](https://hustcsrun.gitbook.io/23fall) | 主要为计算机方向留学申请经验，涵盖申请时间线、语言考试、科研、文书与申请案例；23fall 版 |
 | [清华大学飞跃手册](https://feiyue.online/) | 留学申请准备、项目选择、录取后事项与经验案例 |
-| [上海交通大学生存手册 · SurviveSJTUManual](https://survivesjtu.gitbook.io/survivesjtumanual) | 大学规划、学习方法、科研与升学经验；部分内容面向交大学生或属于历史经验 |
+| [上海交通大学生存手册 · SurviveSJTUManual](https://survivesjtu.gitbook.io/survivesjtumanual) | **编者认为是每个大学生必看的文章**，大学规划、学习方法、科研与升学经验；部分内容面向交大学生或属于历史经验 |
 
 ## 维护说明
 
-- 本仓库仅整理通用网站入口，不收录个人成绩、选课记录、学分进度、私人联系方式或带身份信息的登录链接。
-- 不保存登录状态、认证票据、会话参数、账号口令及私人附件。
+- 本仓库用于整理并分享通用网站入口，属于个人经验；
 - 历年政策与加分细则请在学校或学院官网查询最新版本。
 - 部分链接沿用原站的 HTTP 地址；请留意浏览器安全提示，不要绕过证书警告。
 - 欢迎通过 Issue 或 Pull Request 补充公开资源、修复失效链接，提交前请阅读 [贡献说明](CONTRIBUTING.md)。

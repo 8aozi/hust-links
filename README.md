@@ -62,6 +62,7 @@
 | --- | --- |
 | [Awesome HUST](https://github.com/recolic/awesome-hust) | 很多有用的指南与资源索引，涵盖实验、报告和~~有趣的~~工具，主要面向计科、软工与网安 |
 | [Hust-opensource-Xuejie · 完整学解仓库](https://github.com/SukunaShinmyoumaru-hust/Hust-opensource-Xuejie/tree/main) | **学院最伟大的产物之一**，涵盖全学年cs等核心课程的相关资料，致谢Sukuna学长及其他contributor |
+| [Hust-LearningCode](https://github.com/HustCAteam/Hust-LearningCode) | 由 HUST 学码群成员整理，按主题汇集计算机相关教材、课堂笔记、讲义、试题与程序 |
 | [SAFC 导师评价](https://framist.github.io/safc/) | 第三方评价入口；大部分评价来自2019年，仅供参考，建议结合多方信息判断 |
 
 ## 🚀 飞跃与大学生活手册
